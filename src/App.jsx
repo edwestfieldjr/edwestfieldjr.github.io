@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 import { faCoffee } from '@fortawesome/free-solid-svg-icons'
 
 export default () => (
-  <div className="container text-center p-5 mt-5 text-muted " >
+  <div className="container text-center p-1 mt-1 mt-xs-2 p-xs-2 mt-sm-3 p-sm-3 mt-md-4 p-md-4 mt-lg-5 p-lg-5 text-muted " >
     <h1 className="display-3">Ed Westfield Jr.</h1>
     <h3 className="display-6">西田爱德</h3>
     <ul className="list-unstyled">
