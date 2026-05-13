@@ -1,4 +1,4 @@
-Copyright (c) [Edward Francis Westfield Jr.]<ed.westfield.jr@gmail.com>
+Copyright (c) [Edward Francis Westfield Jr.](ed.westfield.jr@gmail.com)
 
 All rights reserved.
 
