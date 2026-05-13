@@ -13,6 +13,7 @@ export default () => (
       <li class="list-inline-item">Graphic Designer</li>
       <li class="list-inline-item">Web Developer</li>
       <li class="list-inline-item">Software Engineer</li>
+      <li class="list-inline-item">中文学生</li>
     </ul>
     <ul className="list-unstyled">
       <li><a className="link-secondary" href="https://github.com/edwestfieldjr">github.com/edwestfieldjr</a></li>
