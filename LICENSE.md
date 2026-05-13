@@ -1,7 +1,4 @@
-Copyright (c) 2026 Edward Francis Westfield Jr. <ed.westfield.jr@gmail.com>
-
-<span id="year"></span>
-<script>document.getElementById('year').innerHTML = new Date().getFullYear();</script>
+Copyright (c) [Edward Francis Westfield Jr.]<ed.westfield.jr@gmail.com>
 
 All rights reserved.
 
